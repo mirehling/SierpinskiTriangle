@@ -1,4 +1,4 @@
-public void settings() {
+public void setup() {
     size(400, 400);
   }
 
