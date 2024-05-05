@@ -1,6 +1,6 @@
 public void setup() {
     size(400, 400);
-    background(0);
+    background(255);
   }
 
 public void sierpinski(int x, int y, int len){
